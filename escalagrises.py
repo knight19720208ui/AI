@@ -1,5 +1,6 @@
 '''
-Verisón de consola
+Versión de consola: python 
+Cambiar a una escala de grises una imagen
 '''
 import cv2 
   
