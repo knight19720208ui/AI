@@ -91,4 +91,4 @@ for (top, right, bottom, left), name in zip(face_locations, face_names):
    cv2.imshow('Video', frame)
 '''
 
-### Ver más: https://github.com/ageitgey/face_recognition 
+### Ver más: https://github.com/ageitgey/face_recognition .
